@@ -2,6 +2,10 @@
 
 I'm looking for a job, with a tech stack that's mainly JavaScript/TypeScript, React, Vue, and Python/Django.
 
+我正在找一份前端工作，主要技能包括 Javascript/TypeScript, React/Vue, Python/Django 等。
+
+Thank You.
+
 <!--
 **maltoze/maltoze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://komarev.com/ghpvc/?username=maltoze)
