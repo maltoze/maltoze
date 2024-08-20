@@ -4,7 +4,9 @@ I'm looking for a job, with a tech stack that's mainly JavaScript/TypeScript, Re
 
 我正在找一份前端工作，主要技能包括 Javascript/TypeScript, React/Vue, Python/Django 等。
 
-Thank You.
+邮箱: atonezzz#gmail.com
+
+Thanks.
 
 <!--
 **maltoze/maltoze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
