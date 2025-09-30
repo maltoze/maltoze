@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Looking for a job.
+I'm looking for a job.
 
 <!--
 **maltoze/maltoze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
